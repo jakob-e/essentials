@@ -1,4 +1,4 @@
-scss
+essentials
 ====
 
-http://jakob-e.github.io/scss
+http://jakob-e.github.io/essentials
